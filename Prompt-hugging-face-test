@@ -1,2 +1,16 @@
 
-Look up models with a license of cc-by-sa-4.0 and sort by most likes on Hugging face, save top 5 to file.
+
+<instructions>
+Using Browser-Use (documentation attached), create an agent that will loop up models with a license of cc-by-sa-4.0 and sort by most likes on Hugging face, save top 5 to file.
+.
+
+Write all the necessary steps for a complete beginner who's using [your IDE] on [your OS]. If possible, use 'uv' for Python.
+
+<example>
+[Provide an example from the repo of Browser Use]
+</example>
+</instructions>
+
+<documentation>
+[Paste the full documentation of Browser Use]
+</documentation>
